@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tortor mauris, lobortis in velit sed, elementum facilisis nibh. Integer suscipit mi in arcu consequat, sit amet ornare odio rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce sit amet porttitor risus. Aenean quis dignissim tellus. Nam at metus a ante condimentum malesuada id id nibh. Sed nec maximus felis, sit amet elementum nulla. Pellentesque tincidunt aliquet lacus in posuere. Suspendisse tempus viverra est at consectetur.
+
+Phasellus posuere lacus eget dapibus scelerisque. Etiam varius, tellus nec ultrices ultricies, orci metus convallis arcu, sit amet mattis ex velit vitae augue. Nunc id odio eget lectus sollicitudin efficitur. Praesent porttitor lacinia massa nec consectetur. Integer maximus ultricies eleifend. Mauris a venenatis ex. Vestibulum venenatis tortor lorem, in blandit turpis fringilla nec. Nunc tincidunt sem massa, ut tincidunt nisi porttitor sed. Vivamus lorem odio, condimentum a lectus quis, scelerisque condimentum lorem. Integer pretium mollis nisi, sit amet bibendum est luctus in. Curabitur eget orci orci. Sed blandit nunc nibh, id egestas mauris semper ut. Mauris cursus nibh nec bibendum tincidunt. Proin vehicula ultrices fermentum.
+
+Sed quis eros lectus. Quisque maximus molestie lacus, et venenatis diam vulputate non. Donec vel ante sit amet nunc egestas consequat id ultricies augue. Maecenas lacus dolor, tristique non magna vitae, eleifend suscipit nunc. Aliquam consequat diam sit amet orci viverra, vitae hendrerit leo molestie. Vestibulum sagittis neque tellus, ut fermentum justo imperdiet sit amet. Nullam ac maximus elit. Phasellus congue velit ut arcu blandit, nec tristique sem suscipit. Nam tempus dolor eu turpis cursus, eget laoreet lacus eleifend. Aenean id dui hendrerit, feugiat dolor faucibus, congue risus. Sed finibus fermentum mauris. Cras ante ante, tristique non viverra eget, euismod eget quam.
+
+Cras laoreet luctus ornare. Nam fermentum sodales commodo. Aliquam lacinia eleifend tristique. Proin egestas, urna sit amet bibendum volutpat, nunc dui ultrices lorem, quis finibus neque elit et mauris. Suspendisse potenti. Nullam vulputate pulvinar mi, vitae tincidunt justo tristique ullamcorper. Pellentesque sed ligula id est sagittis egestas. Integer convallis consectetur nisl et maximus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur sagittis rhoncus nibh eu imperdiet.
+
+Sed ac quam accumsan, feugiat velit sed, suscipit dui. Sed dictum pulvinar mi vitae laoreet. Duis ullamcorper ipsum et libero faucibus, at semper augue vehicula. In felis ligula, cursus id consectetur nec, venenatis ac est. Nam hendrerit ornare neque sit amet tempus. Suspendisse ut congue nibh. Aliquam erat volutpat.
+
+Phasellus justo nulla, venenatis a vulputate ullamcorper, fringilla non elit. Maecenas fringilla venenatis tellus at tincidunt. Morbi pellentesque dapibus fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris eu finibus ex. Morbi pellentesque eleifend rhoncus. Vestibulum varius bibendum mi id eleifend.
+
+Etiam at euismod urna, et dignissim velit. Aliquam augue turpis, pretium ac dignissim et, efficitur vitae quam. Maecenas ex diam, eleifend in lorem ut, feugiat sollicitudin magna. Sed id nisi turpis. Morbi sed euismod ipsum. Proin vestibulum sollicitudin purus, vitae semper neque congue a. Cras sit amet fringilla.
+
+Generated 7 paragraphs, 500 words, 3463 bytes of Lorem Ipsum"/>
+</ScrollView>
+</LinearLayout>
